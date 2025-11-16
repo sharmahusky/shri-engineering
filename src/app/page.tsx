@@ -9,7 +9,7 @@ export default function Home() {
           Coming Soon
         </h2>
         <p className="text-slate-500 dark:text-slate-400 text-lg">
-          We're working on something amazing. Stay tuned!
+          We&apos;re working on something amazing. Stay tuned!
         </p>
       </div>
     </main>
